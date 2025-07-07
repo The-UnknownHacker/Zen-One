@@ -22,7 +22,7 @@ For now this is all I want to implement but I want to make the table modular so 
 Now after laying down the requirements it was time to start CAD
 
 Before starting CAD I took down some measurements and decided on wanting a size of 2400 MM for the length and 900mm for the width as this is a nice size
-I found the cheapest and best quality wood at a local store here. I need to buy 2 of these as one for the table top and one for the back
+I found the cheapest and best quality wood at a local store here. 
 
 https://www.bunnings.com.au/ecoply-2400-x-1200mm-17mm-plywood-pine-structural-cd-grade_p0340166?srsltid=AfmBOoqdLn03QmbSredyF_-XME1kCp-J2NM9kkSKUHgqgKvt-la4z6W9
 
@@ -42,11 +42,6 @@ After adding the legs and extruding them to height I got something like this
 
 <img width="1311" alt="image" src="https://github.com/user-attachments/assets/95971909-8d32-42d4-b130-f5ca7db9266e" />
 
-I then added a back panel to get something like this
-
-<img width="1173" alt="image" src="https://github.com/user-attachments/assets/56b9c679-6cc9-4fd5-95a8-632a326659d7" />
-
-The problem with this is that it is NOT stable at all and to fix this I can add diagonal metal bars along with 3d printed support brackets
 
 
 **Total time spent: 5h**
